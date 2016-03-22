@@ -1,0 +1,6 @@
+How to compile:
+	g++ -c BMI.cpp
+	g++ -c main.cpp
+	g++ -o BMI main.o BMI.o
+How to execute:
+	./BMI
